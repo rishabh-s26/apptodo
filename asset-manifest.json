@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/apptodo/static/css/main.03cd5804.css",
+    "main.js": "/apptodo/static/js/main.dccf19f8.js",
+    "index.html": "/apptodo/index.html",
+    "main.03cd5804.css.map": "/apptodo/static/css/main.03cd5804.css.map",
+    "main.dccf19f8.js.map": "/apptodo/static/js/main.dccf19f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03cd5804.css",
+    "static/js/main.dccf19f8.js"
+  ]
+}
